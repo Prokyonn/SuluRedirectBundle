@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
-        "sulu/sulu": "^2.0 || dev-develop",
+        "sulu/sulu": "2.0.0-RC3 || dev-develop",
         "ramsey/uuid": "^3.5"
     },
     "require-dev": {
